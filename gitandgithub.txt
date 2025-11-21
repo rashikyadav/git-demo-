@@ -1,0 +1,33 @@
+>> For first time users need to configure github in our system
+git config --global user.name "rashikyadav"
+git config --global user.email "ry483637@gmail.com"
+
+git config --global color.ui auto
+
+
+
+Mandatory commands:
+git init
+git remote add origin https://github.com/rashikyadav/git-demo-.git
+
+
+
+git pull origin main
+git status
+
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
+
+
+to create a separate branch 
+git checkout -b "branch name"
+
+
+switch to branch
+git checkout "branch name which needs to be opened"
+
+
+git clone https://github.com/rashikyadav/git-demo-.git

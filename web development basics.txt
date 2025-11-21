@@ -1,0 +1,29 @@
+index.html
+styles.css
+script.js
+
+URL (uniform resource locator)
+    https://education.webDev.edu/FullStack
+
+    https: Protocol
+    webDev: Server/Domain Name
+    education: Sub-Domain
+    .edu: TLD (top level domain)
+    Full Stack: page
+
+    protol: A set of instructions/rules
+        >> http: hyper text transfer protocol
+        >> https: hyper text transfer protocol secure
+        >> ftp: file transfer protocol
+        >> smtp: simple mail transfer protocol 
+        >> tcp: transmission control protocol
+        >> upd: user datagram protocol
+        >> ip: internet protocol
+
+        http ---ssl(Secure Socket Layer) certification ---> https
+
+    TLD:
+        >> .edu: education
+        >> .in: india
+        >> .uk: united kingdom
+        >> .com: commercial
